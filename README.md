@@ -2,10 +2,10 @@
 This interactive dashboard provides insights into employee attrition patterns within an organization. Built using Power BI, the dashboard helps HR teams identify high-risk departments, gender and job role trends, and key factors affecting employee satisfaction and retention.
 
 🛠 Tools Used
-.Power BI Desktop
-.DAX (Data Analysis Expressions)
-.Kaggle HR Attrition Dataset (CSV Format)
-.Data Cleaning & Modelling in Power BI
+Power BI Desktop
+DAX (Data Analysis Expressions)
+Kaggle HR Attrition Dataset (CSV Format)
+Data Cleaning & Modelling in Power BI
 
 📌 Key Features
 KPI Cards for Total Employees, Total Attrition, Attrition Rate, Avg. Monthly Income, Avg. Age
